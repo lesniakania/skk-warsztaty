@@ -1,0 +1,3 @@
+[submodule "skk-warsztaty-submodule"]
+	path = skk-warsztaty-submodule
+	url = git@github.com:lesniakania/skk-warsztaty-submodule.git
